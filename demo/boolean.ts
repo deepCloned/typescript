@@ -1,0 +1,1 @@
+let isBoolean: boolean = new Boolean(1)
